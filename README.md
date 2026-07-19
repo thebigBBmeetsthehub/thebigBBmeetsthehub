@@ -1,4 +1,4 @@
-# 💫 About Me
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cutive+Mono&weight=700&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+I+am+Briar!;Welcome!+I+hope+you+learn+more+about+me)](https://git.io/typing-svg)
 🔭 Developing Beacon, a civic intelligence platform that allows people to hold their local government accountable<br>🌱 Pursuing a Bachelor's in Science of Computer Science and Data Science at Bucknell University<br>🎨 Passion about turning large datasets into something readable and transparent for everyone
 
 
