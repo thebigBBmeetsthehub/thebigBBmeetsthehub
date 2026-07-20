@@ -5,7 +5,7 @@
 🌱 Future Software Developer or Data Engineer<br>🎓 B.S. in Computer Science and Data Science @ Bucknell University, class of 2029<br>💼 Site Coordinator @ STEAM: CODERS | Senior Student Fellow @ Dominguez Center for Data Science<br>📖 Data Structures & Algorithms, Intro to Computer Science, Calculus 1 & 2, Linear Algebra, Statistics & Engineering<br>🏆 Posse Foundation Full-Tuition Leadership Scholarship | Oprah Winfrey Leaders Scholarship
 
 # 📝 What I Am Working On
-* [**Beacon**](https://github.com/thebigBBmeetsthehub/Beacon), a civic inteligence platform that allows user to hold their local government accountable
+[![Beacon](https://github-readme-stats.vercel.app/api/pin/?username=thebigBBmeetsthehub&repo=Beacon)](https://github.com/thebigBBmeetsthehub/Beacon)
 * in the devlopment stage
 * expect completed date: fall 2026
 
